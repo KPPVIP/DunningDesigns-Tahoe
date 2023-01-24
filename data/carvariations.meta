@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<CVehicleModelInfoVariation>
+	<variationData>	
+<!-- Made by Dunning -->  
+	<Item>
+      <modelName>tah01</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            156
+            156
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>200_TAH_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="9000"/>
+    </Item>	
+	<Item>
+      <modelName>tah02</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            156
+            156
+          </indices>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>200_TAH_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="9001"/>
+    </Item>	
+	</variationData>
+</CVehicleModelInfoVariation>
